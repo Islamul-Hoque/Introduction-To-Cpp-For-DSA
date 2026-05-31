@@ -1,11 +1,11 @@
-// #include <iostream>
-// using namespace std;
+#include <iostream>
+using namespace std;
 
-// int main(){
-//     int x = 15;
+int main(){
+    int x = 15;
 
-//     if(x %2 ==0) cout << "Even";
-//     else cout << "Odd";
+    if(x %2 ==0) cout << "Even";
+    else cout << "Odd";
 
-//     return 0;
-// }
+    return 0;
+}
