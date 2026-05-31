@@ -1,11 +1,11 @@
-// #include <iostream>
-// using namespace std;
+#include <iostream>
+using namespace std;
 
-// int main(){
-//     int x;
+int main(){
+    int x;
 
-//     while (cin >> x)
-//         cout << x << endl;
+    while (cin >> x)
+        cout << x << endl;
 
-//     return 0;
-// }
+    return 0;
+}
