@@ -1,21 +1,21 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// int* fun(){
-//     int* a = new int [5]; // Dynamic Array
+int* fun(){
+    int* a = new int [5]; // Dynamic Array
 
-//     for (int i = 0; i <5; i++) 
-//     cin >> a[i];
+    for (int i = 0; i <5; i++) 
+    cin >> a[i];
 
-//     return a; // Dynamic Array Return From Function
-// }
+    return a; // Dynamic Array Return From Function
+}
 
-// int main(){
-//     int* x = fun(); // Dynamic Array Receive 
+int main(){
+    int* x = fun(); // Dynamic Array Receive 
 
-//     for (int i = 0; i <5; i++) 
-//     cout << x[i] << " ";
+    for (int i = 0; i <5; i++) 
+    cout << x[i] << " ";
 
-//     return 0;
-// }
+    return 0;
+}
 
