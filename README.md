@@ -10,7 +10,7 @@
 ## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="cpp-week-1"></a>Week-1 : [Introduction to C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B))
 
 <!-- Module-1 -->
-### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-1: [Basic c++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B))
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-1: [Basic c++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B))
 
 1. `Print`: [basic output of text and variables in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B)/Print.cpp)  
 2. `Take input in C++, Typecasting`: [demonstrate integer, string input and typecasting](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B)/input.cpp)  
