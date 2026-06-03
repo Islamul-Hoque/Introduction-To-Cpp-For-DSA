@@ -1,28 +1,28 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// class Student {
-//     public:   
-//     int roll;
-//     int cls;
-//     double gpa;
+class Student {
+    public:   
+    int roll;
+    int cls;
+    double gpa;
 
-//     // Constructors
-//     Student(int roll, int cls, double gpa){
-//         this->roll = roll;
-//         this->cls = cls;
-//         this->gpa = gpa;
-//     }
-// };
+    // Constructors
+    Student(int roll, int cls, double gpa){
+        this->roll = roll;
+        this->cls = cls;
+        this->gpa = gpa;
+    }
+};
 
-// Student* fun(){
-//     Student* nayeem = new Student(20, 11, 3.9); // Dynamic
-//     return nayeem;
-// }
+Student* fun(){
+    Student* nayeem = new Student(20, 11, 3.9); // Dynamic
+    return nayeem;
+}
 
-// int main(){
-//     Student* p = fun();
-//     cout << "Nayeem: " << p->roll << " " << p->cls << " " << p->gpa << endl;
+int main(){
+    Student* p = fun();
+    cout << "Nayeem: " << p->roll << " " << p->cls << " " << p->gpa << endl;
 
-//     return 0;
-// }
+    return 0;
+}
