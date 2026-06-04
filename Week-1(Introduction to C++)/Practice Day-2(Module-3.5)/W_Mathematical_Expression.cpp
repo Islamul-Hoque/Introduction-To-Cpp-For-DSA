@@ -1,24 +1,24 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// int main(){
-//     int a, b, c;
-//     char sign, q = '=';
+int main(){
+    int a, b, c;
+    char sign, q = '=';
 
-//     cin >> a >> sign >> b >> q >> c;
+    cin >> a >> sign >> b >> q >> c;
 
-//     if(sign == '+') {
-//         if(a+b == c) cout << "Yes";
-//         else cout << a+b;
-//     } 
-//     else if(sign == '-'){
-//         if(a-b == c) cout << "Yes";
-//         else cout << a-b;
-//     } 
-//     else if(sign == '*'){
-//         if(a*b == c) cout << "Yes";
-//         else cout << a*b;
-//     }
+    if(sign == '+') {
+        if(a+b == c) cout << "Yes";
+        else cout << a+b;
+    } 
+    else if(sign == '-'){
+        if(a-b == c) cout << "Yes";
+        else cout << a-b;
+    } 
+    else if(sign == '*'){
+        if(a*b == c) cout << "Yes";
+        else cout << a*b;
+    }
 
-//     return 0;
-// }
+    return 0;
+}
