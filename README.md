@@ -9,7 +9,7 @@
 <!-- 1st Week -->
 ## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="cpp-week-1"></a>Week-1 : [Introduction to C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B))
 
-<!-- Module-1 -->
+<!-- Week-1 || C program || Module-1 -->
 ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-1: [Basic c++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B))
 
 1. `Print`: [basic output of text and variables in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-1(Basic%20c%2B%2B)/Print.cpp)  
@@ -26,7 +26,7 @@
 
 
 
-<!-- Module-2 -->
+<!-- Week-1 || C program || Module-2 -->
 ### <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-2: [Dynamic Memory Allocation](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-2(Dynamic_Memory_Allocation))
 1. `Dynamic Variable` : [demonstrate static vs dynamic variable allocation using pointers](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-2(Dynamic_Memory_Allocation)/Dynamic_Variable.cpp)
 2. `Dynamic Array` : [create integer array dynamically using new keyword and perform input/output operations](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-2(Dynamic_Memory_Allocation)/Dynamic_Array.cpp)
@@ -34,7 +34,7 @@
 4. `Increase Size of Dynamic Array` : [resize dynamic array by allocating new memory and copying elements](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-2(Dynamic_Memory_Allocation)/Increase_Size_of_Dynamic_Array.cpp)
 
 
-<!-- Module 2.5 -->
+<!-- Week-1 || C program || Module 2.5 -->
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-2.5: [Practice Day 01](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-1(Module-2.5))
 1. `C. Simple Calculator` : [perform addition, multiplication, and subtraction of two integers with proper formatting](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-1(Module-2.5)/C_Simple_Calculator.cpp)
 2. `E. Max` : [find maximum element in an integer array using loop and std::max](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-1(Module-2.5)/E_Max.cpp)
@@ -44,7 +44,7 @@
 
 
 
-<!-- Module 3 -->
+<!-- Week-1 || C program || Module 3 -->
 ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3:  [Class and Object in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B))
 
 1. `Working with class and object` : [basic class declaration, object creation, hardcoded data and user input handling](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Class_and_Object.cpp)
@@ -57,7 +57,7 @@
 8. `Sort function in C++` : [sort an integer array using STL sort() function](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Sorting.cpp)
 
 
-<!-- Module 3.5 -->
+<!-- Week-1 || C program || Module 3.5 -->
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-3.5: [Practice Day 02](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5))
 1. `G. Palindrome Array` : [check if an array is palindrome using two-pointer approach](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/G_Palindrome_Array.cpp)
 2. `H. Sorting` : [sort an array using manual bubble/selection sort without built-in functions](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/H_Sorting.cpp)
@@ -66,7 +66,7 @@
 5. `W. Mathematical Expression` : [check correctness of A S B = C expression and print 'Yes' or correct result](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/W_Mathematical_Expression.cpp)
 
 
-<!-- C++ Mid Exam -->
+<!-- C++ || Mid Exam -->
 ## <a id="cpp-mid-exam"></a><img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> Module-4: [C++ Mid Exam](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/All%20Assignment/C%2B%2B/Mid%20Exam)
 1. `Sort It` : [sort array in ascending and descending order using STL sort()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Assignment/Mid%20Exam/Sort_It.cpp)  
 2. `Sort It 2` : [implement sort_it() function with dynamic array return and descending sort](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Assignment/Mid%20Exam/Sort_It_2.cpp)  
@@ -76,17 +76,18 @@
 
 
 
-<!-- C++ Week-2 -->
-## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="cpp-week-2"></a>Week-2: [String, Class, Objects](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects))
+<!-- C++ || Week-2 -->
+## <img src="https://img.icons8.com/fluency/48/calendar.png" height="22" align="center" /> <a id="cpp-week-2"></a>Week-2: [String, Class, Objects](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B))
 
-## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-5: [String Class In C++](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/tree/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B))
+<!-- Week-2 || Module-5 -->
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-5: [String Class In C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/Module-5(String%20Class%20In%20C%2B%2B))
 
-1. `String`: [demonstrate built-in string class declaration, assignments, and comparison in C++ vs C-style strings](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String.cpp)  
-2. `String Capacity`: [explore string capacity functions like size(), max_size(), capacity(), resize(), clear(), and empty()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Capacity.cpp)  
-3. `String Element Access`: [access individual characters of a string using operator[], at(), front(), and back()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Element_Access.cpp)  
-4. `String Iterators`: [traverse a string using iterators (begin() and end()) and range-based loops](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Iterators.cpp)  
-5. `String Modifiers`: [modify strings using append (+=), append(), push_back(), and pop_back()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Modifiers.cpp)  
-6. `String Modifiers 2`: [further explore modifier methods such as assign(), erase(), replace(), and insert()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Modifiers2.cpp)  
-7. `String input with spaces`: [read strings containing spaces using cin.getline() and getline(cin, s) along with cin.ignore()](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_input_with_spaces.cpp)  
-8. `Stringstream`: [tokenize a sentence into individual words and count them using std::stringstream](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/Stringstream.cpp)  
-9. `Quiz`: [quiz questions solving and demonstrations of string operations, getline, and stringstream](https://github.com/Islamul-Hoque/CSE-Fundamentals-with-Phitron/blob/main/Semester-1/Introduction%20to%20C%2B%2B%20for%20DSA/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/quiz.cpp)  
+1. `String`: [demonstrate built-in string class declaration, assignments, and comparison in C++ vs C-style strings](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String.cpp)  
+2. `String Capacity`: [explore string capacity functions like size(), max_size(), capacity(), resize(), clear(), and empty()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Capacity.cpp)  
+3. `String Element Access`: [access individual characters of a string using operator[], at(), front(), and back()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Element_Access.cpp)  
+4. `String Iterators`: [traverse a string using iterators (begin() and end()) and range-based loops](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Iterators.cpp)  
+5. `String Modifiers`: [modify strings using append (+=), append(), push_back(), and pop_back()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Modifiers.cpp)  
+6. `String Modifiers 2`: [further explore modifier methods such as assign(), erase(), replace(), and insert()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_Modifiers2.cpp)  
+7. `String input with spaces`: [read strings containing spaces using cin.getline() and getline(cin, s) along with cin.ignore()](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/String_input_with_spaces.cpp)  
+8. `Stringstream`: [tokenize a sentence into individual words and count them using std::stringstream](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/Stringstream.cpp)  
+9. `Quiz`: [quiz questions solving and demonstrations of string operations, getline, and stringstream](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-5(String%20Class%20In%20C%2B%2B)/quiz.cpp)  
