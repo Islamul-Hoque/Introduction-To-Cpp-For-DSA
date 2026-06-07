@@ -45,7 +45,7 @@
 
 
 <!-- Module 3 -->
-<!-- ## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3:  [Class and Object in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B))
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-3:  [Class and Object in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B))
 
 1. `Working with class and object` : [basic class declaration, object creation, hardcoded data and user input handling](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Class_and_Object.cpp)
 2. `Constructor and its Simulation` : [demonstrate default and parameterized constructors with manual data assignment and input handling](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Constructor.cpp)
@@ -54,7 +54,7 @@
 5. `Why we need dynamic object` : [return object pointer from function using constructor and access data via pointer](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Why_We_Need_Dynamic_Object.cpp)
 6. `Dynamic Object` : [create dynamic object using 'new' keyword and access data via pointer](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Dynamic_Object.cpp)
 7. `Dynamic object Return from function` : [return dynamically created object from function and access data via pointer](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Dynamic_Object_Return_From_Function.cpp)
-8. `Sort function in C++` : [sort an integer array using STL sort() function](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Sorting.cpp) -->
+8. `Sort function in C++` : [sort an integer array using STL sort() function](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Module-3(Class%20and%20Object%20in%20C%2B%2B)/Sorting.cpp)
 
 
 <!-- Module 3.5 -->
