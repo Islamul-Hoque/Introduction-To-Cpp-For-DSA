@@ -58,12 +58,12 @@
 
 
 <!-- Module 3.5 -->
-<!-- ## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-3.5: [Practice Day 02](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5))
+## <img src="https://img.icons8.com/fluency/48/source-code.png" height="22" align="center" /> Module-3.5: [Practice Day 02](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5))
 1. `G. Palindrome Array` : [check if an array is palindrome using two-pointer approach](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/G_Palindrome_Array.cpp)
 2. `H. Sorting` : [sort an array using manual bubble/selection sort without built-in functions](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/H_Sorting.cpp)
 3. `I. Smallest Pair` : [find minimum value of Ai + Aj + (j - i) using brute-force nested loops](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/I_Smallest_Pair.cpp)
 4. `V. Comparison` : [validate relational operator between two integers using nested if-else and ternary operator](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/V_Comparison.cpp)
-5. `W. Mathematical Expression` : [check correctness of A S B = C expression and print 'Yes' or correct result](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/W_Mathematical_Expression.cpp) -->
+5. `W. Mathematical Expression` : [check correctness of A S B = C expression and print 'Yes' or correct result](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-1(Introduction%20to%20C%2B%2B)/Practice%20Day-2(Module-3.5)/W_Mathematical_Expression.cpp)
 
 
 <!-- C++ Mid Exam -->
