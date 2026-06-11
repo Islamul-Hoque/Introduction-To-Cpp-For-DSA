@@ -1,32 +1,34 @@
-// #include <bits/stdc++.h>
-// using namespace std;
+#include <bits/stdc++.h>
+using namespace std;
 
-// int main(){
-// // int array reverse
-//     int n;
-//     cin >> n;
-//     int a[n];
+int main(){
+// int array reverse
+    int n;
+    cin >> n;
+    int a[n];
 
-//     for (int i = 0; i <n; i++)
-//         cin >> a[i];
+    // Input array
+    for (int i = 0; i <n; i++)
+        cin >> a[i];
 
-//     reverse(a, a+n);
+    // reverse int array
+    reverse(a, a+n);
 
-//     // Index Base for Loop
-//     for (int i = 0; i <n; i++)
-//     cout << a[i] << " ";
-//     cout << endl;
+    // Index Base for Loop
+    for (int i = 0; i <n; i++)
+    cout << a[i] << " ";
+    cout << endl;
 
-//     // Range Base for Loop
-//     for(int i : a)
-//         cout << i << " ";
-//         cout << endl;
+    // Range Base for Loop
+    for(int i : a)
+        cout << i << " ";
+        cout << endl;
 
-// // String reverse
-//     string s;
-//     cin >> s;
+// String reverse
+    string s;
+    cin >> s;
 
-//     reverse(s.begin(), s.end());
-//     cout << s << endl;
-//     return 0;
-// }
+    reverse(s.begin(), s.end());
+    cout << s << endl;
+    return 0;
+}
