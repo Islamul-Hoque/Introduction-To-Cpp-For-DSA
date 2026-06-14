@@ -1,0 +1,6 @@
+5
+Rahim 12 85
+Karim 5 90
+Jamal 20 70
+Selim 8 95
+Babul 15 60
