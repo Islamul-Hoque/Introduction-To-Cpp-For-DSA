@@ -104,3 +104,14 @@
 6. `Function inside class`: [declare and call member functions inside a class in C++](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-6(More%20about%20class%20and%20string)/Function_inside_class.cpp)  
 7. `Copy dynamic object`: [demonstrate correct ways to copy values from one dynamic object to another to avoid shallow copy/pointer issues](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-6(More%20about%20class%20and%20string)/Copy_dynamic_object.cpp)  
 8. `Quiz`: [quiz questions solving and demonstrations of object copying, string constructor, and reverse function](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-6(More%20about%20class%20and%20string)/quiz.cpp)  
+
+
+<!-- Week-2 || Module-7 -->
+## <img src="https://img.icons8.com/ios-filled/50/fbbf24/book.png" height="22" align="center" /> Module-7: [Array of objects](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects))
+
+1. `Array of objects`: [read and print an array of Student objects including strings with spaces](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Array_of_objects.cpp)  
+2. `Min in array of objects`: [find the object with the minimum marks in an array of objects](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Min_in_array_of_objects.cpp)  
+3. `Sort array of objects`: [sort an array of objects based on marks using custom comparator function](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Sort_array_of_objects.cpp)  
+4. `Sort array of objects part 2`: [explore various sorting criteria like marks and roll number in both ascending and descending order](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Sort_array_of_objects_part_2.cpp)  
+5. `Sort array of objects part 3`: [sort an array of objects based on multiple criteria with tie-breaking logic](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Sort_array_of_objects_part_3.cpp)  
+6. `Quiz`: [quiz questions solving and demonstrations of array of objects, sorting, and frequency arrays](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/quiz.cpp)
