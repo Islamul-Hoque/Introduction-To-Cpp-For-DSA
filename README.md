@@ -115,3 +115,12 @@
 4. `Sort array of objects part 2`: [explore various sorting criteria like marks and roll number in both ascending and descending order](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Sort_array_of_objects_part_2.cpp)  
 5. `Sort array of objects part 3`: [sort an array of objects based on multiple criteria with tie-breaking logic](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/Sort_array_of_objects_part_3.cpp)  
 6. `Quiz`: [quiz questions solving and demonstrations of array of objects, sorting, and frequency arrays](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Week-2(String%2C%20Class%2C%20Objects)/Module-7(Array%20of%20objects)/quiz.cpp)
+
+
+<!-- Week-2 || Final Exam -->
+### <a id="cpp-final-exam"></a> <img src="https://img.icons8.com/ios-filled/50/fbbf24/edit-property.png" height="22" align="center" /> Module-8: [Final Exam](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/tree/main/Assignment/Final%20Exam)
+1. `Replace Word` : [replace all occurrences of a target word/substring in a string with hash character (#)](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Assignment/Final%20Exam/Replace_Word.cpp)  
+2. `Find Jessica` : [find if the name "Jessica" is present in a given string/sentence](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Assignment/Final%20Exam/Find_Jessica.cpp)  
+3. `Reverse It` : [reverse the sections of students while keeping other properties intact](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Assignment/Final%20Exam/Reverse_It.cpp)  
+4. `Sort It` : [sort students by total marks in descending order, resolving ties by ID in ascending order](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Assignment/Final%20Exam/Sort_It.cpp)  
+5. `Sort It Again` : [sort students by English marks, then math marks in descending order, resolving ties by ID in ascending order](https://github.com/Islamul-Hoque/Introduction-To-Cpp-For-DSA/blob/main/Assignment/Final%20Exam/Sort_It_Again.cpp)  
